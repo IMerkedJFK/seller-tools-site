@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://imerkedjfk.github.io/seller-tools-site/sitemap.xml
